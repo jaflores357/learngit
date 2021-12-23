@@ -4,3 +4,6 @@ git add remote <url>
 git add .
 git commit -m "1st commit"
 git push origin master
+
+
+git stash
