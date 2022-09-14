@@ -1,3 +1,2 @@
 # learngit
-preprod
 staging
